@@ -12,7 +12,6 @@
 - Ready for deployment on **AWS EKS**
 - Two Dockerfile versions: single-stage and multistage (for optimization)
 
----
 
 ## 🐳 Docker Setup
 
